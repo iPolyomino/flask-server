@@ -1,0 +1,7 @@
+inspecode:
+    thresholds:
+        num-issues:
+            critical: 0
+            error: 0
+    flake8: default
+    misspell: default
