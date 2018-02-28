@@ -3,5 +3,9 @@ api_version: 1
 threadsafe: true
 
 handlers:
-    - url: /
-    script: app.app
+- url: /.*
+  script: main.app
+
+libraries:
+- name: flask
+  version: 0.12
