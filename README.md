@@ -25,4 +25,3 @@ MIT
 ## Author
 
 [Hagi](https://github.com/iPolyomino/)
-
